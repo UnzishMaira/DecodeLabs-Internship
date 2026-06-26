@@ -77,15 +77,11 @@ g++ -std=c++11 chatbot_ai.cpp -o chatbot
 chatbot.exe     # On Windows
 
 
-# Navigate to project folder
+### Project 2: Data Classification Using AI (Python)
+'''bash
 cd Project-2-Data-Classification
-
-# Install dependencies
 pip install -r requirements.txt
-
-# Run the code
 python project2.py
-
 
 ---
 **Author: ** Unzish | DecodeLabs AI Internship 2026
