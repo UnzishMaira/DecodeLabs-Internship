@@ -86,4 +86,4 @@ pip install -r requirements.txt
 python project2.py
 
 ```
-**Author: ** Unzish Maira | DecodeLabs AI Internship 2026
+## Author:  Unzish Maira | DecodeLabs AI Internship 2026
