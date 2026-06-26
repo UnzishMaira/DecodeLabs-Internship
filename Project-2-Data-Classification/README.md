@@ -3,13 +3,11 @@
 **DecodeLabs - AI Internship Program 2026**
 
 
-
 ## 📋 Overview
 
 A machine learning classification model built using the **Iris dataset** with **K-Nearest Neighbors (KNN)** algorithm.
 
 **Supervised Learning** - From raw data to intelligent decision making.
-
 
 
 ## 🎯 Key Features
@@ -25,7 +23,7 @@ A machine learning classification model built using the **Iris dataset** with **
 
 
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - **Language:** Python 3.8+
 - **Libraries:** NumPy, Pandas, Scikit-learn
@@ -36,4 +34,8 @@ A machine learning classification model built using the **Iris dataset** with **
 
 ### 1. Install Dependencies:
 ```bash
+
+cd Project-2-Data-Classification
 pip install -r requirements.txt
+python project2.py
+
