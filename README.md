@@ -76,12 +76,14 @@ g++ -std=c++11 chatbot_ai.cpp -o chatbot
 ./chatbot       # On Mac/Linux
 chatbot.exe     # On Windows
 
-
+```
+---
 ### Project 2: Data Classification Using AI (Python)
-'''bash
+
+```bash
 cd Project-2-Data-Classification
 pip install -r requirements.txt
 python project2.py
 
----
-**Author: ** Unzish | DecodeLabs AI Internship 2026
+```
+**Author: ** Unzish Maira | DecodeLabs AI Internship 2026
